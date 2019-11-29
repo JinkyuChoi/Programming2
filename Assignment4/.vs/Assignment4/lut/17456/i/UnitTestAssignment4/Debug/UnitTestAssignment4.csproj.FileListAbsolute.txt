@@ -1,0 +1,8 @@
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\b\UnitTestAssignment4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\b\UnitTestAssignment4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\b\UnitTestAssignment4\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\b\UnitTestAssignment4\bin\Debug\UnitTestAssignment4.dll
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\UnitTestAssignment4\Debug\UnitTestAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\UnitTestAssignment4\Debug\UnitTestAssignment4.csproj.CopyComplete
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\UnitTestAssignment4\Debug\UnitTestAssignment4.dll
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\UnitTestAssignment4\Debug\UnitTestAssignment4.csprojAssemblyReference.cache

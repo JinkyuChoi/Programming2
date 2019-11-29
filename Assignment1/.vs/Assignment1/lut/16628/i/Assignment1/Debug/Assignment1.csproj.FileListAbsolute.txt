@@ -1,0 +1,12 @@
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\b\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\b\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csproj.CopyComplete
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.exe
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\b\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\b\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.csproj.CopyComplete
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\i\Assignment1\Debug\Assignment1.exe

@@ -1,0 +1,8 @@
+C:\Users\c3678\source\repos\LAB3\.vs\LAB3\lut\0\b\UnitTestLAB3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\c3678\source\repos\LAB3\.vs\LAB3\lut\0\b\UnitTestLAB3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\c3678\source\repos\LAB3\.vs\LAB3\lut\0\b\UnitTestLAB3\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\c3678\source\repos\LAB3\.vs\LAB3\lut\0\b\UnitTestLAB3\bin\Debug\UnitTestLAB3.dll
+C:\Users\c3678\source\repos\LAB3\.vs\LAB3\lut\0\i\UnitTestLAB3\Debug\UnitTestLAB3.csprojAssemblyReference.cache
+C:\Users\c3678\source\repos\LAB3\.vs\LAB3\lut\0\i\UnitTestLAB3\Debug\UnitTestLAB3.csproj.CoreCompileInputs.cache
+C:\Users\c3678\source\repos\LAB3\.vs\LAB3\lut\0\i\UnitTestLAB3\Debug\UnitTestLAB3.csproj.CopyComplete
+C:\Users\c3678\source\repos\LAB3\.vs\LAB3\lut\0\i\UnitTestLAB3\Debug\UnitTestLAB3.dll

@@ -1,0 +1,15 @@
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\b\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\b\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\b\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\b\UnitTestAssignment1\bin\Debug\UnitTestAssignment1.dll
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\i\UnitTestAssignment1\Debug\UnitTestAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\i\UnitTestAssignment1\Debug\UnitTestAssignment1.csproj.CopyComplete
+C:\Users\c3678\source\repos\Assignment1\.vs\Assignment1\lut\0\i\UnitTestAssignment1\Debug\UnitTestAssignment1.dll
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\b\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\b\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\b\UnitTestAssignment1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\b\UnitTestAssignment1\bin\Debug\UnitTestAssignment1.dll
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\i\UnitTestAssignment1\Debug\UnitTestAssignment1.csprojAssemblyReference.cache
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\i\UnitTestAssignment1\Debug\UnitTestAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\i\UnitTestAssignment1\Debug\UnitTestAssignment1.csproj.CopyComplete
+C:\Users\c3678\Documents\Desktop\Assignment1\.vs\Assignment1\lut\0\i\UnitTestAssignment1\Debug\UnitTestAssignment1.dll

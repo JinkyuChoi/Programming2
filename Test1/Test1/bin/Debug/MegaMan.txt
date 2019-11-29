@@ -1,0 +1,7 @@
+Mega Man
+Ascend Ladder
+Descend Ladder
+Run Left
+Run Right
+Jump
+Shoot

@@ -1,0 +1,14 @@
+C:\Users\c3678\source\repos\LAB1\LAB1\obj\Debug\LAB1.csprojAssemblyReference.cache
+C:\Users\c3678\source\repos\LAB1\LAB1\obj\Debug\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\c3678\source\repos\LAB1\LAB1\bin\Debug\LAB1.exe.config
+C:\Users\c3678\source\repos\LAB1\LAB1\bin\Debug\LAB1.exe
+C:\Users\c3678\source\repos\LAB1\LAB1\bin\Debug\LAB1.pdb
+C:\Users\c3678\source\repos\LAB1\LAB1\obj\Debug\LAB1.exe
+C:\Users\c3678\source\repos\LAB1\LAB1\obj\Debug\LAB1.pdb
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB1\LAB1\bin\Debug\LAB1.exe.config
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB1\LAB1\bin\Debug\LAB1.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB1\LAB1\bin\Debug\LAB1.pdb
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB1\LAB1\obj\Debug\LAB1.csprojAssemblyReference.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB1\LAB1\obj\Debug\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB1\LAB1\obj\Debug\LAB1.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB1\LAB1\obj\Debug\LAB1.pdb

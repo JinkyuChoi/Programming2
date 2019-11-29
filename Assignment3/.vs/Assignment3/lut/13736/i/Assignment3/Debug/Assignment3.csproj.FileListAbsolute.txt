@@ -1,0 +1,6 @@
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment3\.vs\Assignment3\lut\0\b\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment3\.vs\Assignment3\lut\0\b\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment3\.vs\Assignment3\lut\0\i\Assignment3\Debug\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment3\.vs\Assignment3\lut\0\i\Assignment3\Debug\Assignment3.csproj.CopyComplete
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment3\.vs\Assignment3\lut\0\i\Assignment3\Debug\Assignment3.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment3\.vs\Assignment3\lut\0\i\Assignment3\Debug\Assignment3.csprojAssemblyReference.cache

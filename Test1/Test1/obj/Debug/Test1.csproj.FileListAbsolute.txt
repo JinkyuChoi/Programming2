@@ -1,0 +1,14 @@
+C:\Users\c3678\Documents\Desktop\Test1\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\c3678\Documents\Desktop\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\c3678\Documents\Desktop\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\c3678\Documents\Desktop\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\c3678\Documents\Desktop\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\c3678\Documents\Desktop\Test1\Test1\obj\Debug\Test1.pdb
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Test1\Test1\obj\Debug\Test1.csprojAssemblyReference.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Test1\Test1\obj\Debug\Test1.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Test1\Test1\obj\Debug\Test1.pdb

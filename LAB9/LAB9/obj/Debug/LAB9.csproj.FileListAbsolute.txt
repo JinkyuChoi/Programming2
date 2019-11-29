@@ -1,0 +1,20 @@
+C:\Users\c3678\source\repos\LAB9\LAB9\bin\Debug\LAB9.exe.config
+C:\Users\c3678\source\repos\LAB9\LAB9\bin\Debug\LAB9.exe
+C:\Users\c3678\source\repos\LAB9\LAB9\bin\Debug\LAB9.pdb
+C:\Users\c3678\source\repos\LAB9\LAB9\obj\Debug\LAB9.csprojAssemblyReference.cache
+C:\Users\c3678\source\repos\LAB9\LAB9\obj\Debug\LAB9.labFrm.resources
+C:\Users\c3678\source\repos\LAB9\LAB9\obj\Debug\LAB9.Properties.Resources.resources
+C:\Users\c3678\source\repos\LAB9\LAB9\obj\Debug\LAB9.csproj.GenerateResource.cache
+C:\Users\c3678\source\repos\LAB9\LAB9\obj\Debug\LAB9.csproj.CoreCompileInputs.cache
+C:\Users\c3678\source\repos\LAB9\LAB9\obj\Debug\LAB9.exe
+C:\Users\c3678\source\repos\LAB9\LAB9\obj\Debug\LAB9.pdb
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\bin\Debug\LAB9.exe.config
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\bin\Debug\LAB9.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\bin\Debug\LAB9.pdb
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\obj\Debug\LAB9.csprojAssemblyReference.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\obj\Debug\LAB9.labFrm.resources
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\obj\Debug\LAB9.Properties.Resources.resources
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\obj\Debug\LAB9.csproj.GenerateResource.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\obj\Debug\LAB9.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\obj\Debug\LAB9.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB9\LAB9\obj\Debug\LAB9.pdb

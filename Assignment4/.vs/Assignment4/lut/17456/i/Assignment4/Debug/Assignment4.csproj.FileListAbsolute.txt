@@ -1,0 +1,10 @@
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\b\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\b\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\Assignment4\Debug\Assignment4.frmCreateProduct.resources
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\Assignment4\Debug\Assignment4.frmMain.resources
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\Assignment4\Debug\Assignment4.Properties.Resources.resources
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\Assignment4\Debug\Assignment4.csproj.GenerateResource.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\Assignment4\Debug\Assignment4.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\Assignment4\Debug\Assignment4.csproj.CopyComplete
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\Assignment4\Debug\Assignment4.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment4\.vs\Assignment4\lut\0\i\Assignment4\Debug\Assignment4.csprojAssemblyReference.cache

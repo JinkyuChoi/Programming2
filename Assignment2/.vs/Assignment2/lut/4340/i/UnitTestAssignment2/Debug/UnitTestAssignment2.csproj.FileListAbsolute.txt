@@ -1,0 +1,16 @@
+C:\Users\c3678\Documents\Desktop\Assignment2\.vs\Assignment2\lut\0\b\UnitTestAssignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\c3678\Documents\Desktop\Assignment2\.vs\Assignment2\lut\0\b\UnitTestAssignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\c3678\Documents\Desktop\Assignment2\.vs\Assignment2\lut\0\b\UnitTestAssignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\c3678\Documents\Desktop\Assignment2\.vs\Assignment2\lut\0\b\UnitTestAssignment2\bin\Debug\UnitTestAssignment2.dll
+C:\Users\c3678\Documents\Desktop\Assignment2\.vs\Assignment2\lut\0\i\UnitTestAssignment2\Debug\UnitTestAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Assignment2\.vs\Assignment2\lut\0\i\UnitTestAssignment2\Debug\UnitTestAssignment2.csproj.CopyComplete
+C:\Users\c3678\Documents\Desktop\Assignment2\.vs\Assignment2\lut\0\i\UnitTestAssignment2\Debug\UnitTestAssignment2.dll
+C:\Users\c3678\Documents\Desktop\Assignment2\.vs\Assignment2\lut\0\i\UnitTestAssignment2\Debug\UnitTestAssignment2.csprojAssemblyReference.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment2\.vs\Assignment2\lut\0\b\UnitTestAssignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment2\.vs\Assignment2\lut\0\b\UnitTestAssignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment2\.vs\Assignment2\lut\0\b\UnitTestAssignment2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment2\.vs\Assignment2\lut\0\b\UnitTestAssignment2\bin\Debug\UnitTestAssignment2.dll
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment2\.vs\Assignment2\lut\0\i\UnitTestAssignment2\Debug\UnitTestAssignment2.csprojAssemblyReference.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment2\.vs\Assignment2\lut\0\i\UnitTestAssignment2\Debug\UnitTestAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment2\.vs\Assignment2\lut\0\i\UnitTestAssignment2\Debug\UnitTestAssignment2.csproj.CopyComplete
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\Assignment2\.vs\Assignment2\lut\0\i\UnitTestAssignment2\Debug\UnitTestAssignment2.dll

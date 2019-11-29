@@ -1,0 +1,7 @@
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB10\LAB10\bin\Debug\LAB10.exe.config
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB10\LAB10\bin\Debug\LAB10.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB10\LAB10\bin\Debug\LAB10.pdb
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB10\LAB10\obj\Debug\LAB10.csprojAssemblyReference.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB10\LAB10\obj\Debug\LAB10.csproj.CoreCompileInputs.cache
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB10\LAB10\obj\Debug\LAB10.exe
+C:\Users\c3678\Documents\Desktop\Centennial College\Programming2\LAB10\LAB10\obj\Debug\LAB10.pdb

@@ -1,0 +1,7 @@
+D:\college\Semester2\Programming 2\Test1\Test1\Test1\obj\Debug\Test1.csproj.CoreCompileInputs.cache
+D:\college\Semester2\Programming 2\Test1\Test1\Test1\bin\Debug\Test1.exe.config
+D:\college\Semester2\Programming 2\Test1\Test1\Test1\bin\Debug\Test1.exe
+D:\college\Semester2\Programming 2\Test1\Test1\Test1\bin\Debug\Test1.pdb
+D:\college\Semester2\Programming 2\Test1\Test1\Test1\obj\Debug\Test1.exe
+D:\college\Semester2\Programming 2\Test1\Test1\Test1\obj\Debug\Test1.pdb
+D:\college\Semester2\Programming 2\Test1\Test1\Test1\obj\Debug\Test1.csprojAssemblyReference.cache

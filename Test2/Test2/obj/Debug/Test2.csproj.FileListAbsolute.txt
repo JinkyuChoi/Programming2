@@ -1,0 +1,10 @@
+C:\Users\c3678\source\repos\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\c3678\source\repos\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\c3678\source\repos\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\c3678\source\repos\Test2\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\Users\c3678\source\repos\Test2\Test2\obj\Debug\Test2.frmPeople.resources
+C:\Users\c3678\source\repos\Test2\Test2\obj\Debug\Test2.Properties.Resources.resources
+C:\Users\c3678\source\repos\Test2\Test2\obj\Debug\Test2.csproj.GenerateResource.cache
+C:\Users\c3678\source\repos\Test2\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\Users\c3678\source\repos\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\c3678\source\repos\Test2\Test2\obj\Debug\Test2.pdb

@@ -1,0 +1,12 @@
+The Legend of Zelda: A Link to the Past
+Move Up
+Move Down
+Move Left
+Move Right
+Action
+Attack
+View Map
+Use Item
+
+
+

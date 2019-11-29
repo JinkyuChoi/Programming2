@@ -1,0 +1,12 @@
+1,T-Shirt,9.95
+2,Sweater,24.99
+3,Milk,5.49
+4,Milk,5.99
+5,64GB SDCard,29.99
+6,32GB SDCard,11.99
+7,Stapler,5.55
+8,Nintendo Switch,379.99
+9,Shoes,59.99
+12,Hat,13.00
+13,Glasses,99.99
+15,Tie,19.98

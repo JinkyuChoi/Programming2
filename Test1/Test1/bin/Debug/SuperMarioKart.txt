@@ -1,0 +1,12 @@
+Super Mario Kart
+
+
+Move Left
+Move Right
+Use Item
+Accelerate
+Look Behind
+Brake
+Hop
+Hop
+
